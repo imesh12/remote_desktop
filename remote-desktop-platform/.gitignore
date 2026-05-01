@@ -1,5 +1,8 @@
+
+# logs
+*.log
+
+# build
+target/
 node_modules/
 dist/
-.pnpm-store/
-.vite/
-apps/agent/target/

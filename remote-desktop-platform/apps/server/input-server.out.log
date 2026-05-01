@@ -1,7 +1,0 @@
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +12ms[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +4ms[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSessionModule dependencies initialized[39m[38;5;3m +4ms[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSignalingModule dependencies initialized[39m[38;5;3m +0ms[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mSignalingGateway subscribed to the "message" message[39m[38;5;3m +15ms[39m
-[32m[Nest] 23484  - [39m2026/05/01 11:52:45 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m

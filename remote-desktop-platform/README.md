@@ -71,6 +71,9 @@ pnpm build
 pnpm dev
 ```
 
+pnpm --filter web dev
+pnpm --filter server dev
+
 ### Agent Placeholder
 
 The agent scaffold is written as a Rust placeholder project. Building it will require a local Rust toolchain (`cargo`) once agent work begins.
