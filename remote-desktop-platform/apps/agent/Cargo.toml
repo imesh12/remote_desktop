@@ -1,0 +1,15 @@
+[package]
+name = "remote-desktop-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Placeholder Windows agent for the secure remote desktop platform"
+
+[dependencies]
+windows = { version = "0.52", features = [
+  "Win32_Foundation",
+  "Win32_UI_Input_KeyboardAndMouse",
+  "Win32_UI_WindowsAndMessaging"
+] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

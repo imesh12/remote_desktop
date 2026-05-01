@@ -1,0 +1,10 @@
+
+> @remote-desktop/web@ preview C:\Users\imcom\Downloads\remoteDesktop\remote-desktop-platform\apps\web
+> vite preview "--host" "127.0.0.1" "--port" "4173"
+
+Port 4173 is in use, trying another one...
+Port 4174 is in use, trying another one...
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4175[22m/[C:\Users\imcom\Downloads\remoteDesktop\remote-desktop-platform\apps\web:
+ ERR_PNPM_C:\Users\imcom\Downloads\remoteDesktop\remote-desktop-platform\apps\web:
+ ERR_PNPM_RECURSIVE_RUN_FIRST_FAIL  @remote-desktop/web@ preview: `vite preview "--host" "127.0.0.1" "--port" "4173"`
+Exit status 4294967295
